@@ -1,0 +1,6 @@
+{
+  "name": "StudyQuest AI",
+  "description": "Your Personal AI Teacher and Learning Game for any subject, syllabus, and examination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
